@@ -1,0 +1,14 @@
+{
+  "name": "tatoeba-extractor-service",
+  "version": "0.1.0",
+  "description": "Extractor service for Tateoba files",
+  "main": "lib/index.js",
+  "keywords": [],
+  "author": "Michael Phelan <phelan.map@gmail.com> (https://github.com/phelanma/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "tar-stream": "^1.5.4",
+    "unbzip2-stream": "^1.2.4"
+  }
+}
